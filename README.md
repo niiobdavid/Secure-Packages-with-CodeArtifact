@@ -4,8 +4,8 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-codeartifact-updated)
 
-**Author:** davidniiamui@gmail.com  
-**Email:** niiobdavid@gmail.com
+**Author:** Nii OB  
+**Email:** davidniiamui@gmail.com
 
 ---
 
